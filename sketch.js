@@ -14,7 +14,7 @@ function setup() {
   car.shapeColor = "white";
   
   //to create a visible wall and give it a dark grey color
-  wall=createSprite(900,200,60, height/2);
+  wall=createSprite(1400,200,60, height/2);
   wall.shapeColor = (80,80,80);
   
   //to create a random speed and weight
